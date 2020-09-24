@@ -1,0 +1,30 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Restaurant web page built with ES6 and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8Bts/Restaurant-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8Bts/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/8Bts/Restaurant-Page#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.8.0",
+    "stylelint-scss": "^3.17.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
