@@ -1,9 +1,9 @@
 # Restaurant Page
 
-Simple two players tic tac toe game built for playing on web browsers. Click the cells of the gameboard to mark it and try to complete a full row to win the game.  The score is considered tie when there is no completed row at the end. 
+Simple restaurant page focused on implementing useful web development features like `npm`, `webpack`, and `ES6 Modules`. Almost all HTML code is provided by the script. Assets are bundled and linked using Webpack.
 
 ## Application Screenshot
-![screenshot](assets/images/screenshot.png)
+![screenshot](src/images/screenshot.png)
 
 ## Built With
 
@@ -11,18 +11,19 @@ Simple two players tic tac toe game built for playing on web browsers. Click the
 - CSS,
 - ES6,
 - Bootsrap 4,
+- Webpack 4.44.2
 - VS Code
 - Firefox Developer Edition
 
 ## Live Demo
 
-<a href="https://rawcdn.githack.com/8Bts/TIC-TAC-TOE-ES6/29278894f8de212b5bb55ef0b3e5310f559dc25f/index.html" target="_blank">Live version</a>
+<a href="https://rawcdn.githack.com/8Bts/Restaurant-Page/fb2b48791dbad5ee5554bb14b452e7030ffaf1ea/dist/index.html#" target="_blank">Live version</a>
 
 ## Getting Started
 
   If you want to try this application locally, follow the steps below:
 
-  1. Clone the project using `git clone https://github.com/8Bts/TIC-TAC-TOE-ES6` command.
+  1. Clone the project using `git clone https://github.com/8Bts/Restaurant-Page.git` command.
 
   2. run `npm install`.
 
@@ -34,7 +35,7 @@ Simple two players tic tac toe game built for playing on web browsers. Click the
 
 - Github: [8Bts](https://github.com/8Bts)
 - Twitter: [@Rasheed49705929](https://twitter.com/Rasheed49705929)
-- Linkedin: [Rashid Mammadli](https://www.linkedin.com/in/rashid-mammadli-62b9b1171/)
+- Linkedin: [Rashid Mammadli](https://www.linkedin.com/in/rashidmammadli/)
 - Email: mcmizze@yahoo.com
 
 
@@ -42,7 +43,7 @@ Simple two players tic tac toe game built for playing on web browsers. Click the
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the <a href="https://github.com/8Bts/TIC-TAC-TOE-ES6/issues" target="_blank">issues page</a>.
+Feel free to check the <a href="https://github.com/8Bts/Restaurant-Page/issues" target="_blank">issues page</a>.
 
 ## Show your support
 
