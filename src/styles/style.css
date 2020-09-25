@@ -1,0 +1,66 @@
+html { box-sizing: border-box; }
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: var(--primary) !important;
+}
+
+body {
+  background: url("../images/jason-leung.jpg")  no-repeat center  / cover fixed;
+}
+
+#content {
+  min-height: 100vh;
+  background: rgba(0, 0, 0, 0.3) center / cover fixed;
+}
+
+.main {
+  height: 75vh;
+  background-color: rgba(255, 255, 255, 0.55);
+}
+
+.tab {
+  padding: 1em;
+  background-color: #353b48;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.tab-link {
+  color: white;
+}
+
+.d-text {
+  padding: 5em;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: var(--dark);
+}
+
+.menu-cont {
+  background: url("../images/menu-shot.png") no-repeat center / contain;
+  height: 60vmin;
+  margin: 1em;
+}
+
+.c-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+  padding: 2em;
+}
+
+iframe {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.mapouter {
+  left: 50%;
+  transform: translate(-50%);
+}
