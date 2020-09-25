@@ -6,6 +6,11 @@ html { box-sizing: border-box; }
   box-sizing: inherit;
 }
 
+a:hover {
+  text-decoration: none;
+  color: var(--primary) !important;
+}
+
 body {
   background: url("../images/jason-leung.jpg")  no-repeat center  / cover fixed;
 }
@@ -22,7 +27,13 @@ body {
 
 .tab {
   padding: 1em;
-  border: 1px outset black;
+  background-color: #353b48;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.tab-link { 
+  color: white;
 }
 
 .d-text {

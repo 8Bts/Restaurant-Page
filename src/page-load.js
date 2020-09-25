@@ -10,13 +10,13 @@ const load = () => {
   main.innerHTML = `
     <div class="row">
       <div class="col-4 text-center tab">
-        <a href="#" id="home">Home</a>
+        <a class="tab-link" href="#" id="home">Home</a>
       </div>
       <div class="col-4 text-center tab">
-        <a href="#" id="menu">Menu</a>
+        <a class="tab-link" href="#" id="menu">Menu</a>
       </div>
       <div class="col-4 text-center tab">
-        <a href="#" id="contact">Contact</a>
+        <a class="tab-link" href="#" id="contact">Contact</a>
       </div>
     </div>
     <div class="row">
