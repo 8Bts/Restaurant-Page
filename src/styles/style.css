@@ -42,3 +42,9 @@ body {
   font-size: 1.2rem;
   color: var(--dark);
 }
+
+.menu-cont {
+  background: url("../images/menu-shot.png") no-repeat center / contain;
+  height: 60vmin;
+  margin: 1em;
+}

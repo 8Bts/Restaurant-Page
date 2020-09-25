@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles/style.css';
 import './styles/css-reset.css';
 import './images/jason-leung.jpg';
+import './images/menu-shot.png';
 
 import PageLoad from './page-load';
 import Home from './home';
