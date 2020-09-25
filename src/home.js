@@ -18,6 +18,6 @@ const home = (container) => {
   recusandae accusantium a laudantium, eveniet sunt, 
   voluptas unde magnam mollitia.
   </p>`;
-}
+};
 
 export default home;

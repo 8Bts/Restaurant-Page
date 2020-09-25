@@ -48,3 +48,20 @@ body {
   height: 60vmin;
   margin: 1em;
 }
+
+.c-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+  padding: 2em;
+}
+
+iframe {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.mapouter {
+  left: 50%;
+  transform: translate(-50%);
+  margin: 1em;
+}

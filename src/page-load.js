@@ -40,7 +40,7 @@ const load = () => {
         </p>
       </div>
     </div>`;
-    document.getElementById('content').appendChild(main);
+  document.getElementById('content').appendChild(main);
 };
 
 export default load;
